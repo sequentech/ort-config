@@ -113,6 +113,10 @@ categorizations:
   categories:
   - "permissive"
   - "include-in-notice-file"
+- id: "BSL-1.0"
+  categories:
+  - "permissive"
+  - "include-in-notice-file"
 - id: "CC-BY-1.0"
   categories:
   - "permissive"
